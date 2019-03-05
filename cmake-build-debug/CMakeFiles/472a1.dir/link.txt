@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/472a1.dir/BFS.cpp.o CMakeFiles/472a1.dir/main.cpp.o CMakeFiles/472a1.dir/Node.cpp.o CMakeFiles/472a1.dir/Puzzle.cpp.o CMakeFiles/472a1.dir/DFS.cpp.o CMakeFiles/472a1.dir/A_Star.cpp.o  -o 472a1.exe -Wl,--out-implib,lib472a1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
